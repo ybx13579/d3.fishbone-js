@@ -1,7 +1,7 @@
 # d3.fishbone-js
 js鱼骨图（因果图）
-
- 
+### 弊端：css样式无法精准设定
+ 
 效果图 ：
  - 1、官网示例（data.json控制数据）
 > - 预览：http://bl.ocks.org/bollwyvl/raw/9239214/
